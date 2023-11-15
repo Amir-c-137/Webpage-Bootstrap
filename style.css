@@ -1,0 +1,30 @@
+@font-face {
+    font-family: vazir;
+    src: url("fonts/ttf/Vazirmatn-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: vazir-bold;
+    src: url("fonts/ttf/Vazirmatn-Bold.ttf") format("ttf");
+}
+
+
+.vazir-font {
+    font-family: 'vazir', sans-serif;
+    direction: rtl;
+    
+}
+
+.vazir-font-bold {
+    font-family: 'vazir-bold', sans-serif;
+    direction: rtl;
+    font-weight: 600;
+}
+
+.hr-costume{
+    height: 3px;
+    color: red;
+    background-color: red;
+    width: 10%;
+    margin: auto;
+}
